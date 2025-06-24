@@ -75,4 +75,4 @@ total_safe <- sum(safe_group)
 default_rate_safe <- mean(actual[safe_group])
 
 cat("Total data dengan risiko default <= 5%:", total_safe, "\n")
-cat("Actual default rate dalam grup ini:", round(default_rate_safe, 4), "\n")
+cat("Actual default rate dalam grup:", round(default_rate_safe, 4), "\n")
