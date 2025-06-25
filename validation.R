@@ -1,5 +1,6 @@
 # Instal dan load package
 library(dplyr)
+library(ggplot)
 
 # Data
 fitted <- prediction$Fitted;fitted
