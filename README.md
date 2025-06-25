@@ -15,12 +15,13 @@
    - Binary Logistic Regression
    - Gradient Boosting Classifier
    - Table Comparison
-6. Prediction
-7. Score Card
+6. Model Feasibility
+7. Prediction
+8. Score Card
    - Convert to score
-8. SHAP top feature
+9. SHAP top feature
    - Shap values
-9. Decision
+10. Decision
     - Set specific customer
     - Calculate propability
     - Customer score
